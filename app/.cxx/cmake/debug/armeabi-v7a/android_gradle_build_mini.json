@@ -1,0 +1,33 @@
+{
+  "buildFiles": [
+    "D:\\mNDK\\NDK_VIP\\ndk52_Serial\\data\\Serial\\app\\src\\main\\cpp\\CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "D:\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe",
+      "-C",
+      "D:\\mNDK\\NDK_VIP\\ndk52_Serial\\data\\Serial\\app\\.cxx\\cmake\\debug\\armeabi-v7a",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "D:\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe",
+    "-C",
+    "D:\\mNDK\\NDK_VIP\\ndk52_Serial\\data\\Serial\\app\\.cxx\\cmake\\debug\\armeabi-v7a",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {
+    "serial_port-Debug-armeabi-v7a": {
+      "artifactName": "serial_port",
+      "buildCommandComponents": [
+        "D:\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe",
+        "-C",
+        "D:\\mNDK\\NDK_VIP\\ndk52_Serial\\data\\Serial\\app\\.cxx\\cmake\\debug\\armeabi-v7a",
+        "serial_port"
+      ],
+      "abi": "armeabi-v7a",
+      "output": "D:\\mNDK\\NDK_VIP\\ndk52_Serial\\data\\Serial\\app\\build\\intermediates\\cmake\\debug\\obj\\armeabi-v7a\\libserial_port.so",
+      "runtimeFiles": []
+    }
+  }
+}

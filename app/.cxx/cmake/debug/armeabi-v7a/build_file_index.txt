@@ -1,0 +1,1 @@
+D:\mNDK\NDK_VIP\ndk52_Serial\data\Serial\app\src\main\cpp\CMakeLists.txt

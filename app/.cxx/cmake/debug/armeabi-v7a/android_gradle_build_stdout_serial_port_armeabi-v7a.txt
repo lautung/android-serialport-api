@@ -1,0 +1,3 @@
+ninja: Entering directory `D:\mNDK\NDK_VIP\ndk52_Serial\data\Serial\app\.cxx\cmake\debug\armeabi-v7a'
+[1/2] Building C object CMakeFiles/serial_port.dir/SerialPort.c.o
+[2/2] Linking C shared library D:\mNDK\NDK_VIP\ndk52_Serial\data\Serial\app\build\intermediates\cmake\debug\obj\armeabi-v7a\libserial_port.so
